@@ -18,7 +18,7 @@
 - 📊 Currently pursuing a **degree in Computer Science**  
 - 🌐 Focused on **Data Science & AI/ML**  
 - 🤖 Interested in **AI, Machine Learning, Deep Learning, Data Science**  
-- 🎯 Motto: *I only like perfection.*  
+- 🎯 Motto: *Nah, I'd Win*  
 
 ---
 
@@ -29,8 +29,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -66,10 +64,10 @@
 
 ---
 
-## 📜 Random Dev Quote
+## 📜 Random  Quote
 
-> *"Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function."*  
-— John Carmack  
+> *"Throughout the Heaven and the Earth, I alone am the honoured one"*  
+— Satoru?  
 
 ---
 
