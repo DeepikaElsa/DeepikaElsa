@@ -5,12 +5,12 @@
 
 ---
 <!-- Banner / Header -->
-<h1 align="center" style="color:red;">❤️ Hey, I'm Deepika Elsa ❤️</h1>
+<h1 align="center" style="color:red;"> Hey, I'm Deepika Elsa ❄️</h1>
 
 ## 👤 About Me
 
 <p align="left">
-  <img src="about.png" alt="About Me" align="right" width="200" />
+  <img src="about.png" alt="About Me" align="right" width="150" />
 </p>
 
 - 💻 Began the journey with **Data Science, Machine Learning And Generative AI**  
