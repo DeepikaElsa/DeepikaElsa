@@ -1,9 +1,9 @@
 <!-- Banner / Header -->
-<h1 align="center" style="color:red;">❤️ Hey, I'm Deepika Elsa ❤️</h1>
+<h1 align="center" style="color:red;"> Hey, I'm Deepika Elsa </h1>
 
 ---
 
-## 👤 About Me
+## 🎀 About Me
 
 - 💻 Began the journey with **Data Science, Machine Learning And Generative AI**
 - 🎨 Worked on **Front-end Development & Web Designing**
