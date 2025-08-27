@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="header.jpeg" alt="header" width="100%" />
+  <img src="header.gif" alt="header" width="100%" />
 </p>
 
 ---
@@ -81,5 +81,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="footer.jpeg" alt="footer" width="100%" />
+  <img src="footer.gif" alt="footer" width="100%" />
 </p>
