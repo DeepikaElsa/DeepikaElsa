@@ -32,11 +32,19 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepikaElsa&show_icons=true&theme=blueberry&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&bg_color=000000" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepikaElsa&theme=blueberry&ring=1e90ff&fire=1e90ff&currStreakLabel=1e90ff" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepikaElsa&layout=compact&theme=blueberry&title_color=1e90ff&text_color=ffffff&bg_color=000000" alt="langs" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepikaElsa&show_icons=true&theme=blueberry&title_color=1e90ff&icon_color=1e90ff&text_color=1e90ff&bg_color=000000" alt="stats" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=DeepikaElsa&theme=blueberry&ring=1e90ff&fire=1e90ff&currStreakLabel=1e90ff&background=000000&sideLabels=1e90ff&dates=1e90ff" alt="streak" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepikaElsa&layout=compact&theme=blueberry&title_color=1e90ff&text_color=1e90ff&bg_color=000000" alt="langs" />
 </p>
+
 
 ---
 
