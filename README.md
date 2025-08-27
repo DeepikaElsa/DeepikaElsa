@@ -1,23 +1,27 @@
-<!-- Banner / Header -->
-<h1 align="center" style="color:red;"> Hey, I'm Deepika Elsa </h1>
+<!-- Header -->
+<p align="center">
+  <img src="header.jpeg" alt="header" width="100%" />
+</p>
 
 ---
+<!-- Banner / Header -->
+<h1 align="center" style="color:red;">❤️ Hey, I'm Deepika Elsa ❤️</h1>
 
-## 🎀 About Me
+## 👤 About Me
 
-- 💻 Began the journey with **Data Science, Machine Learning And Generative AI**
-- 🎨 Worked on **Front-end Development & Web Designing**
-- 📊 Currently pursuing a **degree in Computer Science**
-- 🌐 Focused on **Data Science & AI/ML**
-- 🤖 Interested in **AI, Machine Learning, Deep Learning, Data Science**
-- 🎯 Motto: *I only like perfection.*
+- 💻 Began the journey with **Data Science, Machine Learning And Generative AI**  
+- 🎨 Worked on **Front-end Development & Web Designing**  
+- 📊 Currently pursuing a **degree in Computer Science**  
+- 🌐 Focused on **Data Science & AI/ML**  
+- 🤖 Interested in **AI, Machine Learning, Deep Learning, Data Science**  
+- 🎯 Motto: *I only like perfection.*  
 
 ---
 
 ## 🛠️ Languages & Tools I Have Worked With
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,angular,cs,dotnet,java,python,flask,django,mysql,mongodb,git,github,vscode,linux,aws,docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,angular,cs,dotnet,java,python,flask,django,mysql,mongodb,git,github,vscode,linux,aws,docker" />
 </p>
 
 ---
@@ -25,9 +29,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepikaElsa&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepikaElsa&theme=radical&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepikaElsa&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=000000" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepikaElsa&show_icons=true&theme=blueberry&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&bg_color=000000" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepikaElsa&theme=blueberry&ring=1e90ff&fire=1e90ff&currStreakLabel=1e90ff" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepikaElsa&layout=compact&theme=blueberry&title_color=1e90ff&text_color=ffffff&bg_color=000000" alt="langs" />
 </p>
 
 ---
@@ -61,7 +65,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/DeepikaElsa">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ff0000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1e90ff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
 
@@ -69,6 +73,13 @@
 
 <p align="center">💡 Connect with me on  
 <a href="mailto:deepikajoseph50@gmail.com">📧 Email</a> | 
-<a href="https://www.linkedin.com/in/deepika-elsa-joseph-38044228a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">💼 LinkedIn</a> | 
+<a href="https://www.linkedin.com/in/deepika-elsa-joseph-38044228a">💼 LinkedIn</a> | 
 <a href="https://in.pinterest.com/deepikaelsajoseph/">🎍 Pinterest</a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="footer.jpeg" alt="footer" width="100%" />
 </p>
