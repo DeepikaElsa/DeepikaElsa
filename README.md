@@ -12,7 +12,9 @@
 <p align="left">
   <img src="about.png" alt="About Me" align="right" width="250" />
 </p>
-
+<img src="about.png" alt="About Me" align="right" width="200" />
+<img src="about.png" alt="About Me" align="right" width="150" />
+<img src="about.png" alt="About Me" align="right" width="120" />
 - 💻 Began the journey with **Data Science, Machine Learning And Generative AI**  
 - 🎨 Worked on **Front-end Development & Web Designing**  
 - 📊 Currently pursuing a **degree in Computer Science**  
