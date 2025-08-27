@@ -70,6 +70,6 @@
 
 <p align="center">💡 Connect with me on 
 <a href="mailto:deepikajoseph50@gmail.com">📧 Email</a> | 
-<a href="[https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/deepika-elsa-joseph-38044228a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">💼 LinkedIn</a> | 
-<a href="(https://in.pinterest.com/deepikaelsajoseph/)">🎍 Pinterest</a>
+<a href="https://www.linkedin.com/in/deepika-elsa-joseph-38044228a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">💼 LinkedIn</a> | 
+<a href="https://in.pinterest.com/deepikaelsajoseph/">🎍 Pinterest</a>
 </p>
