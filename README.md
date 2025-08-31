@@ -10,10 +10,10 @@
 ## 👤 About Me
 
 <p align="left">
-  <img src="about.png" alt="About Me" align="right" width="175" />
+  <img src="about.png" alt="About Me" align="right" width="185" />
 </p>
 
-- 💻 Began the journey with **Data Science, Machine Learning And Generative AI**  
+- 💻 Began the journey with **Data Science, Machine Learning and Generative AI**  
 - 🎨 Worked on **Front-end Development & Web Designing**  
 - 📊 Currently pursuing a **degree in Computer Science**  
 - 🌐 Focused on **Data Science & AI/ML**  
