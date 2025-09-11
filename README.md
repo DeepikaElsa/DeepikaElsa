@@ -29,6 +29,8 @@
 </p>
 
 ---
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeepikaElsa&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
