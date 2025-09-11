@@ -69,7 +69,7 @@
 ## 📜 Random  Quote
 
 > *"STAND PROUD"*  
-— Satoru?  
+— Sukuna  
 
 ---
 
