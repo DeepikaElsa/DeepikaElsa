@@ -13,12 +13,12 @@
   <img src="about.png" alt="About Me" align="right" width="175" />
 </p>
 
-- 💻 Began the journey with **Data Science, Machine Learning and Generative AI**  
-- 🎨 Worked on **Front-end Development & Web Designing**  
-- 📊 Currently pursuing a **degree in Computer Science**  
-- 🌐 Focused on **Data Science & AI/ML**  
-- 🤖 Interested in **AI, Machine Learning, Deep Learning, Data Science**  
-- 🎯 Motto: *Nah, I'd Win*  
+- 🐣 Began the journey with **Data Science, Machine Learning and Generative AI**  
+- 🦋 Worked on **Front-end Development & Web Designing**  
+- 🎀 Currently pursuing  **Integrated M. Tech in Computer Science**  
+- 🕵🏽‍♀️ Focused on **Data Science & AI/ML**  
+- 🕊️ Interested in **AI, Machine Learning, Deep Learning, Data Science**  
+-  Motto: *Nah, I'd Win* 🫸🏽🔵🔴🫷🏽🫴🏽🟣  
 
 ---
 
@@ -68,8 +68,8 @@
 
 ## 📜 Random  Quote
 
-> *"STAND PROUD"*  
-— Sukuna  
+> *"THERE IS NO PRICE TO PERFECTION, ONLY AN END TO PURSUIT"*  
+Viktor  
 
 ---
 
