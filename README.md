@@ -10,7 +10,7 @@
 ## 👤 About Me
 
 <p align="left">
-  <img src="about.png" alt="About Me" align="right" width="175" />
+  <img src="about.png" alt="About Me" align="right" width="170" />
 </p>
 
 - 🐣 Began the journey with **Data Science, Machine Learning and Generative AI**  
