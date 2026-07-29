@@ -32,20 +32,6 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=DeepikaElsa&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepikaElsa&show_icons=true&theme=blueberry&title_color=1e90ff&icon_color=1e90ff&text_color=1e90ff&bg_color=000000" alt="stats" />
-  
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=DeepikaElsa&theme=blueberry&ring=1e90ff&fire=1e90ff&currStreakLabel=1e90ff&background=000000&sideLabels=1e90ff&dates=1e90ff" alt="streak" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepikaElsa&layout=compact&theme=blueberry&title_color=1e90ff&text_color=1e90ff&bg_color=000000" alt="langs" />
-</p>
-
-
 ---
 
 ## 🚀 Tech Stack
