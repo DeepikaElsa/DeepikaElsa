@@ -62,7 +62,7 @@ Viktor
 ## ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/DeepikaElsa">
+  <a href="[https://www.buymeacoffee.com/DeepikaElsa](https://deepikaelsa.com/)">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1e90ff?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
   </a>
 </p>
